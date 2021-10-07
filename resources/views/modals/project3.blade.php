@@ -16,7 +16,7 @@
                                 <div class="divider-custom-line"></div>
                             </div>
                             <!-- Portfolio Modal - Image-->
-                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/yokomo.png" alt="yokomo_project" />
+                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/yokomo.PNG" alt="yokomo_project" />
                             <!-- Portfolio Modal - Text-->
                             <p class="mb-4">A full customisable website for a sushi restaurant, cool design and effects. I developed it using Wordpress.</p>
                             <button class="btn btn-primary"  data-bs-dismiss="modal">

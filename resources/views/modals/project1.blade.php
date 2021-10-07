@@ -16,7 +16,7 @@
                                 <div class="divider-custom-line"></div>
                             </div>
                             <!-- Portfolio Modal - Image-->
-                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/aunclick.png" alt="aunclick_project" />
+                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/aunclick.PNG" alt="aunclick_project" />
                             <!-- Portfolio Modal - Text-->
                             <p class="mb-4">Aunclick is a powerfull accountant webapp that helps companies to present taxes monthly automactly, create reports of income and expenses, taxes validation, requests for tax documents,
                                 contact accounting professionals and much more. I developed it using PHP, Laravel and VueJs.

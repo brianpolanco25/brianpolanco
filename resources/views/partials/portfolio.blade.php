@@ -26,7 +26,7 @@
                     <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                         <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                     </div>
-                    <img class="img-fluid" src="assets/img/portfolio/innovaciondigital.png" alt="innovaciondital_project" />
+                    <img class="img-fluid" src="assets/img/portfolio/innovaciondigital.PNG" alt="innovaciondital_project" />
                 </div>
             </div>
             <!-- Portfolio Item 3-->
@@ -35,7 +35,7 @@
                     <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                         <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                     </div>
-                    <img class="img-fluid" src="assets/img/portfolio/yokomo.png" alt="yokomo_project" />
+                    <img class="img-fluid" src="assets/img/portfolio/yokomo.PNG" alt="yokomo_project" />
                 </div>
             </div>
         </div>

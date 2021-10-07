@@ -16,7 +16,7 @@
                                 <div class="divider-custom-line"></div>
                             </div>
                             <!-- Portfolio Modal - Image-->
-                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/innovaciondigital.png" alt="..." />
+                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/innovaciondigital.PNG" alt="..." />
                             <!-- Portfolio Modal - Text-->
                             <p class="mb-4">Innovacion Digital is a digital newspaper, It has cool plugins like weather, Covid-19 stadistics, SEO and more. I developed it using Wordpress.</p>
                             <button class="btn btn-primary"  data-bs-dismiss="modal">
