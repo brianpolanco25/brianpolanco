@@ -4,7 +4,7 @@
 
     <div class="container d-flex align-items-center flex-column  " >
         <!-- Masthead Avatar Image-->
-        <img class="masthead-avatar mb-5" src="assets/img/avatar.svg" alt="avatar-brian" />
+        <img class="masthead-avatar mb-5" style="z-index: 100" src="assets/img/avatar.svg" alt="avatar-brian" />
         <!-- Masthead Heading-->
         <h1 class="masthead-heading text-uppercase mb-0">Hello there!</h1>
         <!-- Icon Divider-->
